@@ -12,6 +12,6 @@ export const commitments = [
     {
         icon_class: "bi bi-people",
         title: "Collaborative Spirit",
-        desc: "We’re open to partnerships that bring great ideas to life."
+        desc: "We are open to partnerships that bring great ideas to life."
     }
 ]
